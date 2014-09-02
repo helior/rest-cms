@@ -1,0 +1,5 @@
+core:
+  - 'shell:dist_make'
+  - 'copy'
+profile:
+  - 'shell:profile_make'
