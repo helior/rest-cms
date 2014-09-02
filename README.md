@@ -1,8 +1,8 @@
 ### Dependencies
-[Drush](https://github.com/drush-ops/drush)
-[Drush Make Local](https://www.drupal.org/project/make_local)
-[Node.js](http://nodejs.org/)
-[Grunt](http://gruntjs.com/)
+- [Drush](https://github.com/drush-ops/drush)
+- [Drush Make Local](https://www.drupal.org/project/make_local)
+- [Node.js](http://nodejs.org/)
+- [Grunt](http://gruntjs.com/)
 
 ### Installation
 `npm install` - will install all Node.js dependencies
